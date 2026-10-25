@@ -1,0 +1,4 @@
+repository "Sindey-Atommag-Modell_SAM/Sindey-Atommag-Modell_SAM@1189316@cloud"
+  path "/"
+    br "/main"
+    co "/main"

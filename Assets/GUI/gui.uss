@@ -1,0 +1,9 @@
+#buttonTest {
+    width: 200px;
+    height: 60px;
+
+    background-color: rgb(255, 0, 0);
+    color: white;
+
+    font-size: 18px;
+}
